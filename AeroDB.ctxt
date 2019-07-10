@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=AeroDB
+comment1.params=
+comment1.target=void\ bye()
+comment2.params=
+comment2.target=void\ help()
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+comment3.text=\ \r\n\ \ \ public\ boolean\ isHasKey(String\ key)\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ if(keyList.contains(key))\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ return\ true;\r\n\ \ \ \ }\r\n
+comment4.params=list\ splited\ verifyKeys\ entry
+comment4.target=java.util.ArrayList\ valueSet(java.util.ArrayList,\ java.lang.String[],\ boolean,\ Entry)
+comment5.params=counter
+comment5.target=java.lang.String\ snapshotID(int)
+comment6.params=name\ key\ entry
+comment6.target=void\ useArithmetic(int,\ java.lang.String,\ Entry)
+numComments=7
